@@ -1,4 +1,4 @@
-# MyApp
+# Customer Facing Screens 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.
 
@@ -42,3 +42,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 12. Optimizations and NgModules
 13. Deployment 
 15. Animations & Testing
+
+
+
+## About
+
+There is a  private Company Repo for this but i have this One for my own Angular Tests tests and practise 
